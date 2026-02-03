@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAABERGRmZmZmZkZGZmZmZmZmZGRkZmZmZmZEZGZmZmZmZkaWaWZmImZmZJRpZmYmYmZEZHZ3ZyIiZkZmdndnJiJmZGR2d2cmImZEZHZ3ZyIiZkaWaWZmJmJmZJRpZmYiZmZEZGZmZmZmZkZGZmZmZmZmZGRkZmZmZmZERGRmZmZmZg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Buffet"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
